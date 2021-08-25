@@ -1,2 +1,2 @@
 # LSB-Steganography
-This project is a implementation of LSB steganography using MATLAB.
+This project is an GUI based implementation of LSB and DWT steganography using MATLAB.
